@@ -1,0 +1,65 @@
+.btn-outline-success {
+    color: blue;
+    border-color: blue;
+  }
+  
+  .btn-outline-success:hover {
+    background-color: blue;
+    color: white;
+    border-color: blue;
+  }
+  
+  .img-size {
+    width: 300px;
+    height: 500px;
+  }
+  
+  .img-size1 {
+    width: 292.99px;
+    height: 292.99px;
+  }
+  
+  .footer {
+    background-color: #e3f2fd;
+    color: white;
+  }
+  
+  .first-line {
+    color: lightskyblue;
+    border-bottom: 1px solid gray;
+  }
+  
+  .first-line1 {
+    color: lightskyblue;
+  }
+  
+  .second-line-color {
+    text-align: center;
+    color: lightskyblue;
+  
+  }
+  
+  .second-line a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .second-line-color {
+    color: lightskyblue;
+  }
+  
+  @media screen and (max-width:48rem) {
+    .first-line {
+      text-align: center;
+    }
+  
+  
+    .second-line {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      border-bottom: 1px solid #392d23;
+    }
+  
+  
+  
+  }
